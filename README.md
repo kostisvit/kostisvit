@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Kostas based in Greece.
 
 Backend Software Engineer focused on building scalable APIs and backend systems.
 
