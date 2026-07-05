@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]
 
-<!--
-**kostisvit/kostisvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer focused on building scalable APIs and backend systems.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+Backend
+├── Python
+├── Django
+├── Django REST Framework
+└── PostgreSQL
+
+Mobile
+└── React Native
+
+Infrastructure
+├── Docker
+├── Linux
+├── Nginx
+└── GitHub Actions
+
+Database
+├── PostgreSQL
+├── Redis
+└── SQLite
+```
+
+### What I enjoy
+
+- Building REST APIs
+- Designing scalable backend architectures
+- Database optimization
+- Dockerized deployments
+- Clean, maintainable code
+
+### Current Focus
+
+- Django
+- Python
+- PostgreSQL
+- Docker
+- React Native
+- System Design
+
+---
